@@ -1,2 +1,2 @@
 # hello-world
-Just a tut.
+Just a tut. Here we go.
